@@ -1,7 +1,7 @@
 Cubic3D
 =======
 
-A Java minecraft like game using LWJGL
+Cubic3D is a Java project inspired by the Minecraft random world generation. This project is written using LWJGL, TWL and the Slick library.
 
 ---
 
