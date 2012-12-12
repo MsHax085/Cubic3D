@@ -13,7 +13,8 @@ Cubic3D is a Java project inspired by the Minecraft random world generation. Thi
 
 > - Replaced solid colors with textures.
 
-
 ---
 
 ![Update 05](http://richarddahlgren.net/res/cubic3d/Cubic3D_05.png)
+
+### Update 05
