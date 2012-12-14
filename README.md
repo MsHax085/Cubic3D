@@ -1,10 +1,12 @@
 Cubic3D
 =======
 
-Cubic3D is a Java project inspired by the Minecraft random world generation. This project is written using LWJGL, TWL and the Slick library. Please read the updates below, latest on top.
+###### Cubic3D is a Java project inspired by the Minecraft random world generation. This project is written using LWJGL, TWL and the Slick library. Please read the updates below, latest on top.
+
 ---
 
 ![Update 07](http://richarddahlgren.net/res/cubic3d/Cubic3D_07.png)
+(Warning for low FPS! Rendered 1024 chunks (35 554 432 blocks) right upon start)
 
 ### Update 07
 
