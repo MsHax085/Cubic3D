@@ -6,7 +6,7 @@ Cubic3D
 ---
 
 ![Update 07](http://richarddahlgren.net/res/cubic3d/Cubic3D_07.png)
-(Warning for low FPS! Rendered 1024 chunks (35 554 432 blocks) right upon start)
+###### (Warning for low FPS! Rendered 1024 chunks (35 554 432 blocks) right upon start)
 
 ### Update 07
 
