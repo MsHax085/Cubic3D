@@ -5,6 +5,17 @@ Cubic3D
 
 ---
 
+![Update 08](http://richarddahlgren.net/res/cubic3d/Cubic3D_08.png)
+
+### Update 08
+
+-> Improved world generation
+
+-> Started working on water (the dark dots on the map)
+
+-> Improved sprite fetching and world loading
+
+---
 ![Update 07](http://richarddahlgren.net/res/cubic3d/Cubic3D_07.png)
 ###### (Warning for low FPS! Rendered 1024 chunks (35 554 432 blocks) right upon start)
 
