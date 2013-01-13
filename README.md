@@ -5,7 +5,7 @@ Cubic3D
 
 ---
 
-![Update 09](http://richarddahlgren.net/res/cubic3d/Cubic3D_08.png)
+![Update 09](http://richarddahlgren.net/res/cubic3d/Cubic3D_09.png)
 
 ### Update 09
 
