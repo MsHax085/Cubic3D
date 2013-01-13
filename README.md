@@ -5,6 +5,28 @@ Cubic3D
 
 ---
 
+![Update 09](http://richarddahlgren.net/res/cubic3d/Cubic3D_08.png)
+
+### Update 09
+
+-> Improved world generation
+
+-> Improved water (still buggy, I have to draw all solid blocks first)
+
+-> Improved sprite textures
+
+-> Improved OpenGL rendering (noticed the FPS increase by 600-700%?)
+
+-> Improved game loop and FPS calculation (expected and actual)
+
+-> Improved movement
+
+-> Cleaned and improved source code
+
+-> Prepared for auto-generation as you go
+
+---
+
 ![Update 08](http://richarddahlgren.net/res/cubic3d/Cubic3D_08.png)
 
 ### Update 08
